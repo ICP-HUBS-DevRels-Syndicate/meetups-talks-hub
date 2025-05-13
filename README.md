@@ -7,9 +7,9 @@ This repo is designed to support awareness-focused events like meetups and singl
 ## Contents
 
 - [About](#purpose)
-- [Templates](#event-templates)
+- Templates
   - [Meetup & Workshop Format](event-templates/meetup-and-workshop-template.md)
-- [Resources](#resources)
+- Resources
   - [Presentation Templates](resources/presentation-templates/presentation-templates.md)
   - [Best Practices](resources/best-practices/event-organization.md)
 <!-- - [Examples](#examples)
