@@ -1,8 +1,8 @@
-# ICP Meetups & Workshops Hub
+# ICP Meetups & Talks Hub
 
-Welcome to the **ICP Meetups & Workshops Hub** repository!
+Welcome to the **ICP Meetups & Talks Hub** repository!
 
-This repo is designed to support awareness-focused events like meetups and single-session workshops centered around the Internet Computer Protocol (ICP). These events are intentionally lightweight, requiring minimal prep and technical depth.
+This repo is designed to support awareness-focused events like meetups and single-session talks centered around the Internet Computer Protocol (ICP). These events are intentionally lightweight, requiring minimal prep and technical depth.
 
 ## Contents
 
@@ -23,7 +23,7 @@ This repo is designed to support awareness-focused events like meetups and singl
 
 This repository serves as a central hub for:
 - Standardizing the format of ICP awareness events
-- Sharing best practices for organizing meetups and workshops
+- Sharing best practices for organizing meetups and talks
 - Providing templates and resources for event organizers
 - Documenting successful events and case studies
 
