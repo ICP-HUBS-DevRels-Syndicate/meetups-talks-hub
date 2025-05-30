@@ -39,6 +39,7 @@ Our events are designed to be:
 
 1. Review the event templates in the `event-templates/` directory
 2. Check out the resources in the `resources/` directory
+TODO: Prepare and release Examples, with talks (not too technical / workshop related) that were recorded
 <!-- 3. Look at past successful events in the `examples/` directory -->
 
 ## Contributing
